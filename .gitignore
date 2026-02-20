@@ -43,6 +43,13 @@
 # by Loreto
 *.o
 *.obj
-**/.pio/*
-**/.venv/*
+.pio
 **/build/*
+.activate
+.lnactivate
+.piorun
+.venv
+AIQuestions/
+include/
+platformio.ini
+
